@@ -1,0 +1,17 @@
+com\mycompany\app_automovil\igu\frmAuto$2.class
+com\mycompany\app_automovil\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\app_automovil\App_Automovil.class
+com\mycompany\app_automovil\logica\Auto.class
+com\mycompany\app_automovil\igu\frmAuto$1.class
+com\mycompany\app_automovil\igu\frmAutoPrincipal$1.class
+com\mycompany\app_automovil\igu\frmAutoPrincipal.class
+com\mycompany\app_automovil\logica\Auto_.class
+com\mycompany\app_automovil\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\app_automovil\persistencia\ControladoraPersistencia.class
+com\mycompany\app_automovil\logica\Controladora.class
+com\mycompany\app_automovil\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\app_automovil\igu\frmAuto.class
+com\mycompany\app_automovil\igu\frmAutoPrincipal$3.class
+com\mycompany\app_automovil\igu\frmAutoPrincipal$2.class
+com\mycompany\app_automovil\igu\frmAuto$3.class
+com\mycompany\app_automovil\persistencia\AutoJpaController.class
